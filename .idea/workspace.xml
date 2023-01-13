@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="017ce18a-d515-4ad2-9bf3-6622a5584d52" name="Changes" comment="Iniciando el reposiotrio">
-      <change afterPath="$PROJECT_DIR$/src/java_basico/Actividad_1.java" afterDir="false" />
+    <list default="true" id="017ce18a-d515-4ad2-9bf3-6622a5584d52" name="Changes" comment="Iniciando el repositorio con la actividad #1 del curso java">
+      <change afterPath="$PROJECT_DIR$/src/java_basico/Actividad_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Actividad_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basico.Actividad_2" />
+      <module name="curso_java_openbootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Actividad_2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,11 +80,19 @@
       <option name="project" value="LOCAL" />
       <updated>1673571271158</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Iniciando el repositorio con la actividad #1 del curso java">
+      <created>1673576012281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673576012281</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciando el reposiotrio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciando el reposiotrio" />
+    <MESSAGE value="Iniciando el repositorio con la actividad #1 del curso java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniciando el repositorio con la actividad #1 del curso java" />
   </component>
 </project>
