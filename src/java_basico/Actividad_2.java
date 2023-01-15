@@ -11,7 +11,7 @@ public class Actividad_2 {
         System.out.println("Digite el porcentaje de IVA del producto como numero entero.");
         iva= dato.nextInt();
 
-        resultado = valor_producto + (valor_producto * 1 / iva);
+        resultado = valor_producto + (valor_producto / iva);
         System.out.println("Valor del Producto con el iva incluido: "+resultado);
 
     }
