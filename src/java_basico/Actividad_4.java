@@ -8,7 +8,7 @@ public class Actividad_4 {
         System.out.println(reloj);
     }
 }
-class SmartDevice{
+abstract class SmartDevice{
     String marca;
     String modelo;
     String color;
@@ -26,9 +26,9 @@ class SmartDevice{
 
 }
 class SmartPhone extends SmartDevice{
-    String sistema;
-    int memoriaRam;
-    int memoriaRom;
+    String sistema= "";
+    int memoriaRam= 0;
+    int memoriaRom= 0;
 
     public SmartPhone(){
         super();
@@ -53,9 +53,9 @@ class SmartPhone extends SmartDevice{
 }
 
 class SmartWatch extends SmartDevice{
-    boolean gps;
-    int conectividad;
-    int sensores;
+
+    boolean gps ;
+    int sensores=0;
 
     public SmartWatch(){
         super();

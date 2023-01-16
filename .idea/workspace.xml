@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="017ce18a-d515-4ad2-9bf3-6622a5584d52" name="Changes" comment="Tercera actividad del curso">
-      <change afterPath="$PROJECT_DIR$/src/java_basico/Actividad_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="017ce18a-d515-4ad2-9bf3-6622a5584d52" name="Changes" comment="Cuarta actividad del curso">
+      <change beforePath="$PROJECT_DIR$/src/java_basico/Actividad_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basico/Actividad_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673822501159</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cuarta actividad del curso">
+      <created>1673832740061</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673832740061</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +161,7 @@
     <MESSAGE value="Iniciando el repositorio con la actividad #1 del curso java" />
     <MESSAGE value="Segunda actividad #2 del curso" />
     <MESSAGE value="Tercera actividad del curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tercera actividad del curso" />
+    <MESSAGE value="Cuarta actividad del curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cuarta actividad del curso" />
   </component>
 </project>
