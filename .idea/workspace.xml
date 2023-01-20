@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="017ce18a-d515-4ad2-9bf3-6622a5584d52" name="Changes" comment="Cuarta actividad del curso">
-      <change beforePath="$PROJECT_DIR$/src/java_basico/Actividad_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basico/Actividad_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_basico/Actividad_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,43 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Actividad_4">
-    <configuration name="Actividad_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_basico.Actividad_2" />
-      <module name="curso_java_openbootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_basico.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Actividad_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_basico.Actividad_3" />
-      <module name="curso_java_openbootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_basico.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Actividad_5 (1)">
     <configuration name="Actividad_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_basico.Actividad_4" />
       <module name="curso_java_openbootcamp" />
@@ -83,11 +60,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Actividad_5 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basico.Actividad_5" />
+      <module name="curso_java_openbootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Actividad_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basico.Actividad_5" />
+      <module name="curso_java_openbootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basico.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basico.CRUD_Actividad_5.main" />
+      <module name="curso_java_openbootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basico.CRUD_Actividad_5_SinInterfaz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basico.CRUD_Actividad_5_SinInterfaz.principal" />
+      <module name="curso_java_openbootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basico.CRUD_Actividad_5_SinInterfaz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Actividad_5 (1)" />
+        <item itemvalue="Application.Actividad_5" />
+        <item itemvalue="Application.principal" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Actividad_4" />
-        <item itemvalue="Application.Actividad_3" />
-        <item itemvalue="Application.Actividad_2" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673832740061</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Cuarta actividad del curso">
+      <created>1673833586693</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673833586693</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,5 +201,16 @@
     <MESSAGE value="Tercera actividad del curso" />
     <MESSAGE value="Cuarta actividad del curso" />
     <option name="LAST_COMMIT_MESSAGE" value="Cuarta actividad del curso" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_basico/CRUD_Actividad_5_SinInterfaz/principal.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
